@@ -1,0 +1,4 @@
+ro.fyt.launcher=com.android.launcher4
+ro.fyt.amp_switch=1
+ro.fyt.amp_type=0
+persist.adb.tcp.port=5555

@@ -1,0 +1,2 @@
+set-blduty-min=80
+set-blduty-max=100
